@@ -1,6 +1,4 @@
-███▓▓▒░░  joanna ░░▒▓▓███
-
-DAY 1134
+███▓▓▒░░ day 1134 ░░▒▓▓███
 
 I built something that worked  
 not sure why  

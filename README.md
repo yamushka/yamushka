@@ -1,21 +1,34 @@
-#  Cześć I’m joanna
+███▓▓▒░░  joanna ░░▒▓▓███
 
-Curious mind walking the line between structure and chaos 
+DAY 1134
 
-# I’m interested in:
-- Digital storytelling
-- Code that’s clean, clear, and kind to humans 
-- Making interfaces that don’t make people want to scream  
-- Ethical tech, AI, and systems that raise big questions  
-- Accessibility, inclusion & the human side of code 
+I built something that worked  
+not sure why  
+left a comment “do not touch”  
+touched it anyway  
+now it works better
 
-# I’m currently learning:
-- Back-end development with Node.js, Express, Knex & Craft CMS  
-- React (slow & steady, but getting there)  
-- How to balance minimalism with creative intensity  
-- Building confidence in code
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#  I’m looking to collaborate on:
-- Projects that combine **tech & philosophy**
-- Want to build something weird but useful? Let’s talk.
----
+TOOLS I TOUCH A LOT LATELY
+
+› node  
+› express  
+› knex  
+› react  
+› sqlite  
+› craft cms
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THINGS I CARE ABOUT
+
+› clarity  
+› usability  
+› no unnecessary clicks  
+› interfaces that don’t make people want to scream  
+› ethical tech and systems that raise big questions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[linkedin](https://www.linkedin.com/in/joannajodel/)

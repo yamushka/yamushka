@@ -25,7 +25,7 @@ THINGS I CARE ABOUT
 › usability  
 › no unnecessary clicks  
 › interfaces that don’t make people want to scream  
-› ethical tech and systems that raise big questions
+› ethical tech
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

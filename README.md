@@ -1,23 +1,22 @@
 ███▓▓▒░░░░▒▓▓███
 
 HI 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 TOOLS I TOUCH A LOT LATELY
 
-› JavaScript  
-› TypeScript  
-› React  
-› PHP  
-› SQL  
+› javascript  
+› typescript  
+› react  
+› php  
+› sql  
 
-› Node.js  
-› Express  
-› Laravel  
-› SQLite  
-› Knex  
+› node.js  
+› express  
+› laravel  
+› sqLite  
+› knex  
 
-› Craft CMS
+› craft cms
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

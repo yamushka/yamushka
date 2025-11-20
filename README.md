@@ -1,22 +1,11 @@
 ███▓▓▒░░░░▒▓▓███
 
-HI 
+joanna > jodel
 
-TOOLS I TOUCH A LOT LATELY
+Full-stack mind.
+Clean code. Clear structure.  
 
-› javascript  
-› typescript  
-› react  
-› php  
-› sql  
-
-› node.js  
-› express  
-› laravel  
-› sqLite  
-› knex  
-
-› craft cms
+Working with anything that behaves.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
